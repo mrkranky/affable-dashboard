@@ -11,7 +11,7 @@ To install and run -
 
 ## Prerequisites/Setup
 
-`Only prerequisites is data from cassandra, redis and influxDB`
+`Only prerequisite is data from cassandra, redis and influxDB`
 
 After starting the app, you can view influencer's dashboard at `http://localhost:3008/?userid=1000001`
 
